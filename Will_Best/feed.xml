@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:77638518-FEDD-4830-ABE4-DB3A35D8E062</id>
+ <title>Page list Atom feed</title>
+ <updated>2018-10-04T15:00:44-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:C3E9F4F6-7EA9-4164-BBD1-9FC2A3CA9A97</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">C3E9F4F6-7EA9-4164-BBD1-9FC2A3CA9A97</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2018-10-04T15:00:44.001-05:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3CC72BB6-0E58-4E41-9D82-F680562E853E</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">3CC72BB6-0E58-4E41-9D82-F680562E853E</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2018-10-04T15:00:44.002-05:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EBB00892-2509-446C-9590-2104F5E54FB1</id>
+  <title>PS1 MLT Dwarfs</title>
+  <title xmlns="urn:iweb:">PS1 MLT Dwarfs</title>
+  <in-navbar xmlns="urn:iweb:">EBB00892-2509-446C-9590-2104F5E54FB1</in-navbar>
+  <link rel="alternate" href="PS1_MLT_Dwarfs.html"/>
+  <updated>2018-10-04T15:00:44.003-05:00</updated>
+  <content>PS1 MLT Dwarfs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B9458393-7FA4-4030-BB8A-1FEB25F90296</id>
+  <title>Taurus/Sco Catalogs</title>
+  <title xmlns="urn:iweb:">Taurus/Sco Catalogs</title>
+  <in-navbar xmlns="urn:iweb:">B9458393-7FA4-4030-BB8A-1FEB25F90296</in-navbar>
+  <link rel="alternate" href="Taurus_Sco_Catalogs.html"/>
+  <updated>2018-10-04T15:00:44.004-05:00</updated>
+  <content>Taurus/Sco Catalogs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A0B8B89D-368C-4455-A8CF-C3A3D6BC1838</id>
+  <title>Pubs and Pres</title>
+  <title xmlns="urn:iweb:">Pubs and Pres</title>
+  <in-navbar xmlns="urn:iweb:">A0B8B89D-368C-4455-A8CF-C3A3D6BC1838</in-navbar>
+  <link rel="alternate" href="Pubs_and_Pres.html"/>
+  <updated>2018-10-04T15:00:44.005-05:00</updated>
+  <content>Pubs and Pres</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C8240EDC-6B58-4D90-AECF-24017DC9D177</id>
+  <title>CV</title>
+  <title xmlns="urn:iweb:">CV</title>
+  <in-navbar xmlns="urn:iweb:">C8240EDC-6B58-4D90-AECF-24017DC9D177</in-navbar>
+  <link rel="alternate" href="CV.html"/>
+  <updated>2018-10-04T15:00:44.006-05:00</updated>
+  <content>CV</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2B9457FF-FAC8-450E-ADEC-C6C5EC616722</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">2B9457FF-FAC8-450E-ADEC-C6C5EC616722</in-navbar>
+  <link rel="alternate" href="Photos.html"/>
+  <updated>2018-10-04T15:00:44.007-05:00</updated>
+  <content>Photos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A1B6DA0F-C9B2-449D-9B2A-C9C42439ECC1</id>
+  <title>Personal</title>
+  <title xmlns="urn:iweb:">Personal</title>
+  <in-navbar xmlns="urn:iweb:">A1B6DA0F-C9B2-449D-9B2A-C9C42439ECC1</in-navbar>
+  <link rel="alternate" href="Personal.html"/>
+  <updated>2018-10-04T15:00:44.008-05:00</updated>
+  <content>Personal</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1EC80CA4-B1B6-49F9-B383-F4E1E9493AD9</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">1EC80CA4-B1B6-49F9-B383-F4E1E9493AD9</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2018-10-04T15:00:44.009-05:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>

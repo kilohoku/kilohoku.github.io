@@ -1,0 +1,53 @@
+# Title: Photometry and Proper Motions of M, L, and T Dwarfs
+#        from the Pan-STARRS1 3pi Survey
+# Authors: William M. J. Best, Eugene A. Magnier, Michael C. Liu,
+#          Kimberly M. Aller, Zhoujian Zhang, W. S. Burgett, K. C. Chambers,
+#          P. Draper, H. Flewelling, N. Kaiser, R.-P. Kudritzki,
+#          N. Metcalfe, J. L. Tonry, R. J. Wainscoat, C. Waters
+# To be submitted to AJ
+# arXiv:
+#
+# Table: Spectral Energy Distributions for Field Ultracool Dwarfs (Table 6)
+# Version: 2017-11-08
+#
+# ================================================================================
+# Notes:
+# - This table contains 24 rows and 35 columns, including one extra column
+#   containing numerical spectral types (n_SpT) that does not appear in the paper.
+# - Fields with no data are filled with "NaN".
+#
+# - SEDs constructed using parallaxes from the literature to determine absolute
+#   J-band (2MASS) magnitudes, for which we report the weighted mean and rms for
+#   each spectral subtype bin.  The number of objects used to determine M_J for
+#   each spectral subtype is listed in the second column (N_obj). We use the
+#   median colors from our catalog to calculate absolute magnitudes
+#   in other bands.
+#   Binaries, subdwarfs, and young objects were excluded from these SEDs.
+#
+# ================================================================================
+#
+# SpT  n_SpT  N_obj     M(g)  g_err     M(r)  r_err     M(i)  i_err     M(z)  z_err     M(y)  y_err     M(J)  J_err     M(H)  H_err    M(Ks) Ks_err    M(W1) W1_err    M(W2) W2_err    M(W3) W3_err
+   M6      6     30    16.71   0.44    15.37   0.43    13.25   0.34    12.27   0.32    11.76   0.30    10.36   0.30     9.76   0.30     9.43   0.31     9.22   0.30     9.01   0.30     8.72   0.34
+   M7      7     26    18.11   0.56    16.76   0.50    14.18   0.39    12.98   0.34    12.31   0.31    10.77   0.30    10.14   0.31     9.75   0.31     9.52   0.31     9.31   0.31     8.96   0.33
+   M8      8     21    19.19   0.59    17.74   0.51    15.00   0.48    13.61   0.45    12.81   0.43    11.15   0.42    10.47   0.43    10.03   0.43     9.78   0.43     9.55   0.44     9.18   0.47
+   M9      9      9    19.95   0.43    18.14   0.37    15.62   0.39    14.17   0.37    13.23   0.36    11.46   0.34    10.74   0.35    10.27   0.37     9.95   0.37     9.68   0.37     9.24   0.42
+   L0     10     17    20.33   0.40    18.37   0.31    16.00   0.26    14.52   0.25    13.58   0.23    11.76   0.18    11.00   0.23    10.52   0.24    10.22   0.26     9.94   0.26     9.35   0.32
+   L1     11     19    20.85   0.78    18.74   0.28    16.41   0.25    14.93   0.23    13.97   0.21    12.03   0.15    11.23   0.21    10.71   0.24    10.36   0.26    10.10   0.26     9.66   0.31
+   L2     12     12    21.24    NaN    19.02   0.29    16.73   0.26    15.30   0.24    14.33   0.24    12.32   0.21    11.41   0.25    10.83   0.29    10.43   0.32    10.14   0.33     9.62   0.37
+   L3     13      8    22.51    NaN    19.61   0.39    17.40   0.34    15.88   0.31    14.89   0.29    12.77   0.24    11.82   0.29    11.19   0.32    10.66   0.36    10.39   0.38     9.91   0.37
+   L4     14      8      NaN    NaN    20.60   0.56    18.35   0.38    16.68   0.33    15.66   0.32    13.51   0.28    12.45   0.33    11.85   0.40    11.18   0.43    10.84   0.46    10.05   0.44
+   L5     15      8      NaN    NaN    20.74   0.37    18.71   0.33    16.94   0.29    15.87   0.28    13.69   0.25    12.63   0.30    11.94   0.34    11.26   0.34    10.91   0.38    10.13   0.51
+   L6     16      9      NaN    NaN    21.21   0.78    19.27   0.65    17.35   0.62    16.27   0.61    14.18   0.60    13.19   0.62    12.58   0.68    11.85   0.71    11.49   0.75    10.53   0.87
+   L7     17      7      NaN    NaN      NaN    NaN    20.09   0.36    18.18   0.26    17.13   0.25    14.94   0.20    13.82   0.31    13.12   0.32    12.42   0.48    11.99   0.57    10.87   1.08
+   L8     18     10      NaN    NaN    22.88    NaN    20.38   0.39    18.10   0.22    17.04   0.21    14.90   0.13    13.77   0.20    13.04   0.22    12.20   0.28    11.66   0.30    10.66   0.36
+   L9     19      3      NaN    NaN      NaN    NaN    20.09   0.79    17.69   0.73    16.57   0.72    14.46   0.71    13.39   0.73    12.79   0.74    11.94   0.74    11.45   0.77    10.48   0.75
+   T0     20      1      NaN    NaN      NaN    NaN    20.22    NaN    17.98    NaN    16.77    NaN    14.56    NaN    13.62    NaN    13.08    NaN    12.43    NaN    11.94    NaN    11.02    NaN
+   T1     21      3      NaN    NaN      NaN    NaN    21.10   1.14    18.84   0.21    17.45   0.16    15.25   0.12    14.39   0.18    14.07   0.33    13.39   0.38    12.68   0.33    11.26   0.76
+   T2     22      5      NaN    NaN      NaN    NaN    21.97    NaN    18.26   0.23    16.75   0.13    14.54   0.06    13.73   0.15    13.48   0.26    12.94   0.39    12.06   0.33    10.61   0.40
+   T3     23      2      NaN    NaN      NaN    NaN      NaN    NaN    18.08   0.25    16.50   0.22    14.26   0.16    13.67   0.24    13.44   0.32    12.84   0.61    11.72   0.45      NaN    NaN
+   T4     24      6      NaN    NaN      NaN    NaN      NaN    NaN    18.02   0.39    16.32   0.38    13.89   0.36    13.57   0.40    13.49   0.39    13.31   0.41    11.90   0.39    10.70    NaN
+   T5     25      7      NaN    NaN      NaN    NaN    22.69    NaN    19.20   0.22    17.43   0.18    14.94   0.12    14.76   0.24    14.77   0.23    14.52   0.25    12.69   0.24    11.37    NaN
+   T6     26     11      NaN    NaN      NaN    NaN      NaN    NaN    19.82   0.32    18.06   0.32    15.53   0.27    15.48   0.37    15.37   0.41    15.08   0.35    13.02   0.42    11.61   0.37
+   T7     27      7      NaN    NaN      NaN    NaN      NaN    NaN    21.17   0.78    19.34   0.81    16.78   0.76    16.70   0.78    16.70   0.93    16.23   0.84    14.11   0.95    12.26   0.76
+   T8     28      4      NaN    NaN      NaN    NaN      NaN    NaN    21.52   0.52    19.75   0.59    17.18   0.51    17.09    NaN      NaN    NaN    16.58   0.84    14.03   0.92    12.27   0.64
+   T9     29      1      NaN    NaN      NaN    NaN      NaN    NaN    21.82    NaN    20.37    NaN    17.75    NaN    17.51    NaN      NaN    NaN    16.70    NaN    13.81    NaN    11.97    NaN
